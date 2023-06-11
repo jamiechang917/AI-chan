@@ -6,7 +6,7 @@ AI-Chan is still a prototype, SST is not done yet.
 
 # Prerequisite
 * Python 3.10
-* Stable-Diffusion webui installed in `stable-diffusion-webui` folder
+* [Stable-Diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) installed in `stable-diffusion-webui` folder
 * Your OpenAI API key in each file in `src/gpt` folder
 
 # How to run
