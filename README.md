@@ -2,7 +2,7 @@
 AI-Chan is an innovative AI-powered chatbot program designed to integrate voice- and image-generation.
 
 # Announcement
-AI-Chan is still a prototype, SST is not done yet.
+AI-Chan is still a PROTOTYPE, SST is not done yet.
 
 # Prerequisite
 * Python 3.10
