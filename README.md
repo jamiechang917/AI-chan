@@ -11,6 +11,6 @@ AI-Chan is still a prototype, SST is not done yet.
 
 # How to run
 1. Open Stable-Diffusion webui first (add `--api` at the end)
-> $ webui.sh --api
+`$ ./webui.sh --api`
 2. Run `gui_main.py` in `src` folder 
-> $ python gui_main.py
+`$ python gui_main.py`
