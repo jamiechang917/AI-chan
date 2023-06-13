@@ -1,5 +1,6 @@
 # AI-Chan
-AI-Chan is an innovative AI-powered chatbot program designed to integrate voice- and image-generation.
+AI-Chan is an innovative AI-powered chatbot program designed to integrate voice- and image-generation. 
+<p align="center"><img src="assets/cover.png" width="500" ></p>
 
 # Announcement
 You may not run it successfully, I plan to rewrite the code later.
